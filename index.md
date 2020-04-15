@@ -18,3 +18,11 @@
 
 [Link to Narrative](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/Bingham_William_CS499_4_2_MilestoneThree_Narrative.docx)<br/>
 [Link to Python Code](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39)
+
+<p>&nbsp;</p>
+
+### Capstone Artifact 3 - Databases:
+[Link to Narrative]
+[Link to Java Code]
+
+<p>&nbsp;</p>
