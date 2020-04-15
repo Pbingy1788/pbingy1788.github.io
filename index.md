@@ -9,8 +9,8 @@
 <p>&nbsp;</p>
 
 ### Capstone Artifact 1 - Software Engineering & Design:
-
-
+[Link to Narrative](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%231/Bingham_William_CS_499_MilestoneTwo_Narrative.docx)<br/>
+[Link to Java Code](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%231/SRC)<br/>
 
 <p>&nbsp;</p>
 
