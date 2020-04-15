@@ -8,6 +8,6 @@
 
 <p>&nbsp;</p>
 
-### CS-499(Capstone) Artifact 2:
+### Capstone Artifact 2 - Software Engineering & Design:
 
-[Artifact 2 Link to Python Code](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39)
+[Link to Python Code](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39)
