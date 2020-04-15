@@ -8,4 +8,4 @@
 
 
 ### CS-499(Capstone) Artifact 2:
-https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39
+[Link to Artifact 2 Code](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39)
