@@ -1,4 +1,5 @@
-![3D Render:](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/images/Renderv6.png)
+![3D Render:](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/images/Renderv6.png)
+
 
 ### CS-499(Capstone) Code Review Part 1:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9iogyd2K_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
