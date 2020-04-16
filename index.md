@@ -29,3 +29,6 @@
 [Link to Java Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%233/SRC)
 
 <p>&nbsp;</p>
+
+### My Professional VFX Website:
+[Link to My Career Work](https://pbingham1788.wixsite.com/areaofeffects/models)<br/>
