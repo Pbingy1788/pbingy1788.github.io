@@ -1,3 +1,9 @@
+<html>
+  <head>
+    <title>Test</title>
+  </head>
+  
+  <body text="blue">
 ![3D Render:](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/images/Renderv6.png)
 
 
@@ -32,3 +38,7 @@
 
 ### My Professional VFX Website:
 [Link to My Career Work](https://pbingham1788.wixsite.com/areaofeffects/models)<br/>
+
+  </body>
+</html>
+
