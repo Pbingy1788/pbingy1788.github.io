@@ -16,22 +16,16 @@
 [Link to Narrative](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%231/Bingham_William_CS_499_MilestoneTwo_Narrative.docx)<br/>
 [Link to Java Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%231/SRC)<br/>
 
-<p>&nbsp;</p>
-
 ### Capstone Artifact 2 - Data Structures & Algorithms:
-
 [Link to Narrative](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/Bingham_William_CS499_4_2_MilestoneThree_Narrative.docx)<br/>
-[Link to Python Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39)
-
-<p>&nbsp;</p>
+[Link to Python Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39)<br/>
 
 ### Capstone Artifact 3 - Databases:
 [Link to Narrative](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%233/SRC)<br/>
-[Link to Java Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%233/SRC)
+[Link to Java Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%233/SRC)<br/>
 
-<p>&nbsp;</p>
-
-### My Professional VFX Website:
+### My Professional Self-Assessment & VFX Website:
+[Link to my Professional Self-Assessment](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Bingham_William_CS499_Professional_SelfAssessment.docx)<br/>
 [Link to My Career Work](https://pbingham1788.wixsite.com/areaofeffects/models)<br/>
 
 
