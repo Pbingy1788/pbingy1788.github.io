@@ -21,7 +21,7 @@
 [Link to Python Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%232/CS_499_Final.py#L39)<br/>
 
 ### Capstone Artifact 3 - Databases:
-[Link to Narrative](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%233/SRC)<br/>
+[Link to Narrative](https://github.com/Pbingy1788/pbingy1788.github.io/blob/master/Artifact%20%233/Bingham_William_CS499_5_2_MilestoneFour_Narrative.docx)<br/>
 [Link to Java Source Code](https://github.com/Pbingy1788/pbingy1788.github.io/tree/master/Artifact%20%233/SRC)<br/>
 
 ### My Professional Self-Assessment & VFX Website:
